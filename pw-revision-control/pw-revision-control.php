@@ -1,10 +1,10 @@
 <?php
 /*
-  Plugin Name: Revsion Control
+  Plugin Name: PW Revsion Control
   Plugin URI: https://www.jerschabek-gmbh.de
   Version: 0.1.0
   Author: Torsten Jerschabek
-  Author URI: https://www.jerschabek-gmbh.de
+  Author URI: https://www.passau-webdesign.com
   Description: Allows to control, how many revisions are saved
   Text Domain: revision-control
   Domain Path: /languages

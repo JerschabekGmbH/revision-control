@@ -1,4 +1,4 @@
-=== Revision Control ===
+=== PW Revision Control ===
 Contributors: Jerschabek GmbH
 Donate link: https://www.jerschabek-gmbh.de
 Tags: Revisions, Posts
