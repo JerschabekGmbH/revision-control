@@ -140,7 +140,7 @@ if( ! class_exists( 'PWUpdateChecker' ) ) {
 			if( false === $remote || ! $this->cache_allowed ) {
 
 				$remote = wp_remote_get(
-					'https://raw.githubusercontent.com/JerschabekGmbH/revision-control/master/info.json',
+					'https://passau-webdesign.com/wp-content/uploads/info.json',
 					array(
 						'timeout' => 10,
 						'headers' => array(
