@@ -3,7 +3,7 @@ Contributors: Jerschabek GmbH
 Donate link: https://www.jerschabek-gmbh.de
 Tags: Revisions, Posts
 Requires at least: 4.0
-Tested up to: 4.8
+Tested up to: 6.2
 Stable tag: trunk
 Requires PHP: 5.4
 License: GPLv2 or later
@@ -46,6 +46,10 @@ Please check if revisions are defined in the wp-config.php and remove it
 
 
 == Changelog ==
+
+0.1.0 Initial Release
+
+0.2.0 Implement Update Service
 
 
 == Upgrade Notice ==
