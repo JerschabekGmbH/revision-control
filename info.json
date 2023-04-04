@@ -1,0 +1,21 @@
+{
+	"name" : "PW Revsion Control",
+	"slug" : "pw-revision-control",
+	"author" : "<a href='https://www.passau-webdesign.com'>Torsten Jerschabek</a>",
+	"author_profile" : "",
+	"version" : "2.0",
+	"download_url" : "https://rudrastyh.com/wp-content/uploads/updater/misha-update-checker.zip",
+	"requires" : "5.8",
+	"tested" : "6.2",
+	"requires_php" : "5.3",
+	"last_updated" : "2023-04-04",
+	"sections" : {
+		"description" : "This simple plugin does nothing, only gets updates from a custom server",
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	},
+	"banners" : {
+		"low" : "",
+		"high" : ""
+	}
+}
