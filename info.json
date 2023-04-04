@@ -4,7 +4,7 @@
 	"author" : "<a href='https://www.passau-webdesign.com'>Torsten Jerschabek</a>",
 	"author_profile" : "",
 	"version" : "2.0",
-	"download_url" : "https://github.com/JerschabekGmbH/revision-control/blob/master/pw-revision-control.zip?raw=true",
+	"download_url" : "https://passau-webdesign.com/wp-content/uploads/pw-revision-control.zip",
 	"requires" : "5.8",
 	"tested" : "6.2",
 	"requires_php" : "5.3",
