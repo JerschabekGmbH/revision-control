@@ -3,7 +3,7 @@
 	"slug" : "pw-revision-control",
 	"author" : "<a href='https://www.passau-webdesign.com'>Jerschabek GmbH</a>",
 	"author_profile" : "",
-	"version" : "1.0",
+	"version" : "1.0.1",
 	"download_url" : "https://github.com/JerschabekGmbH/revision-control/releases/download/v1.0.1/pw-revision-control.zip",
 	"requires" : "5.8",
 	"tested" : "6.2",
