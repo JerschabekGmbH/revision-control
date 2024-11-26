@@ -29,9 +29,19 @@ This section describes how to install the plugin and get it working.
 ## Manual Installation
 
 1. Upload the plugin files to the `/wp-content/plugins/revision-control` directory, or install the plugin through the WordPress plugins screen directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress
+2. Activate the plugin through the 'Plugins' screen in WordPress
+
 
 == Frequently Asked Questions ==
+
+
+== How to update the plugin ==
+
+1. Go to the github respository and edit the version numbers
+2. Edit the version line in the main plugin comment: /pw-revision-control/pw-revision-control.php
+3. Edit the version line in the updater class: /pw-revision-control/class-update-checker.php
+4. Then create a .zip of the new plugin and add it to Github as a new release
+5. Update the self-host plugin manifest info.json with the new version and link to the new zip on Github
 
 = Where can I configure the settings? =
 
@@ -50,6 +60,8 @@ Please check if revisions are defined in the wp-config.php and remove it
 0.1.0 Initial Release
 
 0.2.0 Implement Update Service
+
+1.0 Minor Fixes. Updater uses guthub releases
 
 
 == Upgrade Notice ==

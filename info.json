@@ -1,9 +1,9 @@
 {
 	"name" : "PW Revsion Control",
 	"slug" : "pw-revision-control",
-	"author" : "<a href='https://www.passau-webdesign.com'>Torsten Jerschabek</a>",
+	"author" : "<a href='https://www.passau-webdesign.com'>Jerschabek GmbH</a>",
 	"author_profile" : "",
-	"version" : "0.3.0",
+	"version" : "1.0",
 	"download_url" : "https://passau-webdesign.com/wp-content/uploads/pw-revision-control.zip",
 	"requires" : "5.8",
 	"tested" : "6.2",
