@@ -2,7 +2,7 @@
 /*
   Plugin Name: PW Revision Control
   Plugin URI: https://www.jerschabek-gmbh.de
-  Version: 1.0
+  Version: 1.0.1
   Author: Jerschabek GmbH
   Author URI: https://www.passau-webdesign.com
   Description: Allows to control, how many revisions are saved

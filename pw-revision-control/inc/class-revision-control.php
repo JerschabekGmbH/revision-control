@@ -46,9 +46,10 @@ if ( ! class_exists( 'revision_control' ) ) :
 		); 
   
   
-		function number_of_revisions_render() { 
-  
-		  $options = get_option( 'revision_control' );
+		function number_of_revisions_render() {
+
+            $options = get_option( 'revision_control', array('number_of_revisions' => '') );
+
 		  ?>
 		  <input type='text' name='revision_control[number_of_revisions]' value='<?php echo $options['number_of_revisions']; ?>'>
 		  <?php

@@ -63,6 +63,8 @@ Please check if revisions are defined in the wp-config.php and remove it
 
 1.0 Minor Fixes. Updater uses guthub releases
 
+1.0.1 Fixes get_options error, when plugin installed.
+
 
 == Upgrade Notice ==
 

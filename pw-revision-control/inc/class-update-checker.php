@@ -16,7 +16,7 @@ if( ! class_exists( 'PWUpdateChecker' ) ) {
 
 			$this->plugin_slug = PLUGIN_DIR;
             // This is the current Version.
-			$this->version = '1.0';
+			$this->version = '1.0.1';
 			$this->cache_key = 'pw_custom_upd';
 			$this->cache_allowed = false;
 
